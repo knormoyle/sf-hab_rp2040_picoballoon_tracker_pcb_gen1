@@ -1,3 +1,6 @@
 [submodule "firmware/LightAPRS-W-2.0"]
 	path = firmware/LightAPRS-W-2.0
 	url = https://github.com/kaduhi/LightAPRS-W-2.0.git
+    branch = port_to_ag6ns_rp2040_picoballoon_tracker
+
+
